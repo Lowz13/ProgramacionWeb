@@ -1,2 +1,6 @@
 # ProgramacionWeb
-Tarea 1 programacion web. Crear un repositorio en Git Hub
+Este repositorio contiene **tareas, anotaciones y proyectos** de la materia Programación web.
+- Tarea 1 Estado: **Terminada**
+    Crear un repositorio en Git Hub y enseñar como agregar archivos.
+- Tarea 2 Estado: **En proceso***
+    Crear 3 paginas web conectadas entre si, con un favicon cada una.
