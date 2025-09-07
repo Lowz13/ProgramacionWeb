@@ -1,0 +1,27 @@
+
+
+body{
+    background-color: rgb(144, 254, 254);
+}
+/* 
+    h1{
+        color: blue;
+        font-size: 1em;
+        text-align: center;
+    }
+    p{
+        color: red;
+        font-size: 16px;
+        text-align: justify;} 
+*/
+.parrafo1{
+    color: brown;
+    background-color: blueviolet;
+    font-size: 3em;
+}
+/*id declaracion -># */
+
+#parrafo2{
+    text-align: center;
+    background-color: beige;
+}
